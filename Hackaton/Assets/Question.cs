@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class Question : MonoBehaviour
 {
-    private int[] answers = { 1 };
+    
 
     [SerializeField]
     private int Question_index;
@@ -17,11 +17,24 @@ public class Question : MonoBehaviour
     [SerializeField]
     private Color green;
 
+
+    private GameManager gameManager;
+
+    [SerializeField]
+    private string GameManagerNameInString;
+
+    
+    private void Start()
+    {
+        gameManager = GameObject.Find(GameManagerNameInString).GetComponent<GameManager>();
+    }
+
     public void onButtonPress(int index)
     {
-        for(int i = 0; i < 4; i++)
+        gameManager.user_answers[Question_index] = index;
+        for (int i = 0; i < 4; i++)
         {
-            if(index == i)
+            if (index == i)
             {
                 buttons[i].color = green;
 
@@ -33,5 +46,4 @@ public class Question : MonoBehaviour
             }
         }
     }
-
 }

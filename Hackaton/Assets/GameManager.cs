@@ -164,4 +164,59 @@ public class GameManager : MonoBehaviour
         onHideTestButtonPressed();
     }
 
+
+    [SerializeField]
+    public int[] user_answers = { -1, -1, -1, -1, -1 };
+
+    private int[] answers = {0, 1, 2, 3, 0 };
+
+    private int total_found = 0;
+
+    public void onTestniTakunlashButtonPressed()
+    {
+        total_found = 0;
+        for (int i = 0; i < 5; i++)
+        {
+            if (user_answers[i] == answers[i])
+            {
+                total_found++;
+            }
+        }
+        print(total_found);
+
+
+        buttonsToDisable = allButtonsToDiasable.GetComponentsInChildren<Button>();
+        for (int i = 0; i < buttonsToDisable.Length; i++)
+        {
+            //buttonsToDisable[i].enabled = false;
+        }
+
+
+        buttonsToDisable[user_answers[0]].gameObject.GetComponent<Image>().color = Red_color;
+        buttonsToDisable[user_answers[1]+4].gameObject.GetComponent<Image>().color = Red_color;
+        buttonsToDisable[user_answers[2] + 4*2].gameObject.GetComponent<Image>().color = Red_color;
+        buttonsToDisable[user_answers[3] + 4*3].gameObject.GetComponent<Image>().color = Red_color;
+        buttonsToDisable[user_answers[4] + 4*4].gameObject.GetComponent<Image>().color = Red_color;
+
+
+
+        buttonsToDisable[0].gameObject.GetComponent<Image>().color = Green_color;
+        buttonsToDisable[5].gameObject.GetComponent<Image>().color = Green_color;
+        buttonsToDisable[10].gameObject.GetComponent<Image>().color = Green_color;
+        buttonsToDisable[15].gameObject.GetComponent<Image>().color = Green_color;
+        buttonsToDisable[16].gameObject.GetComponent<Image>().color = Green_color;
+
+    }
+
+
+    [SerializeField]
+    private GameObject allButtonsToDiasable;
+
+    private Button[] buttonsToDisable;
+
+    [SerializeField]
+    private Color Red_color, Green_color;
+
+
+
 }
