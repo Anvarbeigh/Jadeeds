@@ -87,6 +87,13 @@ public class GameManager : MonoBehaviour
             current = Game;
             previous = Menu;
         }
+        if(previous == Summary && current == CommunityPanel)
+        {
+            transition.PlayTransition(current, previous);
+            current = Summary;
+            previous = Game;
+
+        }
         
     }
 
@@ -188,15 +195,22 @@ public class GameManager : MonoBehaviour
         buttonsToDisable = allButtonsToDiasable.GetComponentsInChildren<Button>();
         for (int i = 0; i < buttonsToDisable.Length; i++)
         {
-            //buttonsToDisable[i].enabled = false;
+            buttonsToDisable[i].enabled = false;
         }
 
 
-        buttonsToDisable[user_answers[0]].gameObject.GetComponent<Image>().color = Red_color;
-        buttonsToDisable[user_answers[1]+4].gameObject.GetComponent<Image>().color = Red_color;
-        buttonsToDisable[user_answers[2] + 4*2].gameObject.GetComponent<Image>().color = Red_color;
-        buttonsToDisable[user_answers[3] + 4*3].gameObject.GetComponent<Image>().color = Red_color;
-        buttonsToDisable[user_answers[4] + 4*4].gameObject.GetComponent<Image>().color = Red_color;
+        for (int i = 0; i < 5; i++)
+        {
+            if (user_answers[i] >= 0)
+            {
+                buttonsToDisable[user_answers[i] + 4 * i].gameObject.GetComponent<Image>().color = Red_color;
+            }
+        }
+        //buttonsToDisable[user_answers[0]].gameObject.GetComponent<Image>().color = Red_color;
+        //buttonsToDisable[user_answers[1]+4].gameObject.GetComponent<Image>().color = Red_color;
+        //buttonsToDisable[user_answers[2] + 4*2].gameObject.GetComponent<Image>().color = Red_color;
+        //buttonsToDisable[user_answers[3] + 4*3].gameObject.GetComponent<Image>().color = Red_color;
+        //buttonsToDisable[user_answers[4] + 4*4].gameObject.GetComponent<Image>().color = Red_color;
 
 
 
@@ -206,7 +220,14 @@ public class GameManager : MonoBehaviour
         buttonsToDisable[15].gameObject.GetComponent<Image>().color = Green_color;
         buttonsToDisable[16].gameObject.GetComponent<Image>().color = Green_color;
 
+        natijaPanel.SetActive(true);
+
+        natija = "To'g'ri javoblar soni: " + total_found.ToString() + " / 5";
+        NatijaTextObject.text = natija; 
+
     }
+
+    private string natija;
 
 
     [SerializeField]
@@ -217,6 +238,45 @@ public class GameManager : MonoBehaviour
     [SerializeField]
     private Color Red_color, Green_color;
 
+    [SerializeField]
+    private Text NatijaTextObject;
+
+    [SerializeField]
+    private GameObject natijaPanel;
+
+    public void CloseButtonOnNatijaPanel()
+    {
+        natijaPanel.SetActive(false);
+    }
+
+
+    [SerializeField]
+    private GameObject CommunityPanel;
+
+    public void onCommunityButtonPressed()
+    {
+        current = CommunityPanel;
+        previous = Summary;
+        transition.PlayTransition(previous, current);
+    }
+
+
+
+    [SerializeField]
+    private GameObject prefab_sended;
+    [SerializeField]
+    private RectTransform parent;
+
+    private GameObject inst_object;
+    [SerializeField]
+    private InputField inputField;
+
+    public void onSendButtonPressed()
+    {
+        inst_object = Instantiate(prefab_sended, parent);
+        inst_object.GetComponentInChildren<Text>().text = inputField.text;
+        inputField.text = "";
+    }
 
 
 }
