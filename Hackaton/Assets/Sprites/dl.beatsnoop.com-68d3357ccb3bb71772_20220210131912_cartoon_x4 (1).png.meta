@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: c8f2e8bf5734c40658c8158f86d9ed97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2487
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd655c535f72f4609a58091561a6db43
+      internalID: 1467996941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2472
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f68a549c365e410abe5a8479282b366
+      internalID: -511645603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 2472
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d05846241e948dda590654deb2b948
+      internalID: 482515903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2465
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e7bb196bf0482d896d2d23ad1c401
+      internalID: 449317822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1892
+        width: 575
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505fbfe72863b4a4f806a08197c1d7fd
+      internalID: -1780570575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1892
+        width: 573
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f59ad4d14c044e0a8a64c9260e7731
+      internalID: 1655058015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2450
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ca63046df648a1b4afffb0223ded8
+      internalID: 306931302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1892
+        width: 571
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e332140928f09492f90b1ec3f4a4f48d
+      internalID: 437105280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b675b20df1d848e885bfcb255d006f0
+      internalID: -1440125423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de571be87cb7c4ede97b00b7b43e52b4
+      internalID: -1531354621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1892
+        width: 394
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68c7651d354c405a9e18e74e7369baf
+      internalID: -1597491509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 2289
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163cb781c1ede4243a73ca735a92fbe1
+      internalID: 1316383651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2260
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5c3f3d10e3462ebf155002ce143ef
+      internalID: -999778489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2215
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4031ecfc0e5478e850a32371f89001
+      internalID: 149251336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea714f6bbda8f4709a7fe1d503273de2
+      internalID: 1592977840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2179
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104575e6c9aa4c4ea1fcacdfb33a9a1
+      internalID: 1360396290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28afd277f084f17bdebab4bac04b92
+      internalID: 52323126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa88ba1242f463086aae7f429bc6ed
+      internalID: -802923372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2113
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e37d2e04c41b4b04be36dca698c930f
+      internalID: 612872123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2083
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a464be29ad94a29a8cd4b71d3f1b7e
+      internalID: -1365917414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2061
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c203cd4afec4e34b62a1cbb3df5c37
+      internalID: 978727768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2054
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08677991fca474bbea7759f4bfd70e86
+      internalID: -421749454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2047
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9399909569b459199f3e7ef17cc774
+      internalID: -1472710542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2017
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217a74ac308f4e48bf7d972b2b22cdb
+      internalID: 876438541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1944
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e03907aba0d4661b4c61f13ecf9c70
+      internalID: -1189354703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1885
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c482ed43901485189299641c985171
+      internalID: 335923278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1885
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550da4a5043e4b0ba6f2e0034e9a18a
+      internalID: -354550095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1878
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43c5ae8a28cd4ae297fdee506599ccc
+      internalID: 1976449010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1871
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29bd790ec06f460a9089de0cc6d3188
+      internalID: 247376583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1871
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0f63db6fa3344e3a8f1ba33ce7e532
+      internalID: 1999848872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1863
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b38537d24c8a4945a9ba3d832c39c7c
+      internalID: 784213427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1871
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df74b36c523464ba6bc649ab64754d84
+      internalID: 133368052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1856
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7622c4aa3a48ecbb0cee58249e90b
+      internalID: 174062415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1856
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee5c02c12b44628a9a081a84b1863f
+      internalID: 1797702842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1856
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20cbea882d1b472592c4485a5ef800c
+      internalID: 1454846087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1349
+        width: 574
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa6083a9cd84d94bb7c9a92369599e
+      internalID: 1480560481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1673
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18cdbf8db34d47b2a6342503f9c5933
+      internalID: -1222783955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1281
+        width: 573
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b7eb8f27cf14174847b3b58674e7dc
+      internalID: -796797286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1281
+        width: 573
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854c97beed2a470c9cb75ce35e0ab01
+      internalID: 948442463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1276
+        width: 572
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875503f826d2f4437918d4d0b76610f1
+      internalID: -1461336166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1673
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482101c2459164d05993aeb805746330
+      internalID: 1417449889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1665
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb32c84560f942a7810e79d38e9e328
+      internalID: -2099364953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1658
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a139aaea016b4773adcbe52e47d49fd
+      internalID: 1290575244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1607
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4182f4dc29c9640e5af4fe7c138cde92
+      internalID: 545467214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c1ea503836b4e7f91dd30887e66b30
+      internalID: -1998085014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9690152c4a1746ecbf565b459fcbc02
+      internalID: 684840179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1453
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabf410575bce4a25a6440c9145bc48d
+      internalID: 1799033033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1438
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b90d8ee8fd3436e8b17e71f62dc1d8
+      internalID: -995343316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e99b3c99dcc54dc6826889bce5c6f87
+      internalID: 1040299087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1328
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f446a093489437988e1f143b4eee51
+      internalID: -2130312338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1288
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f666b57c38ba046f0a329a9d00559899
+      internalID: -1882476160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed3cf0dc372244ffa642a800d8a610d
+      internalID: 2026511993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e29ea4f00d14348ab38054f78f16d2
+      internalID: -468084887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbbdcd0d85254083815e8ced6916f2b
+      internalID: 1790445058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee41f4e2a527c4dd087b393708bcafe0
+      internalID: 688194092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7b6ddf072204e61a429466543d0fdd
+      internalID: -1519358265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d493c10e63774e47932bcf3d287c3c7
+      internalID: 893011193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 667
+        width: 575
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5c92c31d9b442bbcf33d459bde90d
+      internalID: 97776507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1232
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839401319cb364fa8aafdec7bc9cc219
+      internalID: 1278108218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 653
+        width: 573
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77808fd37324f4ee9a4faaf14adec0bf
+      internalID: -511024187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a634efe5c2f724bef82cf4da2be98a99
+      internalID: -1449337065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 653
+        width: 573
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765bf32a2cb2442f99f823c0d82fd846
+      internalID: -318718847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691abb806f2e42dc9937e94ca519940
+      internalID: 1699678166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 658
+        width: 573
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136322043083408caaedf5cfae1bf3d
+      internalID: -236666638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691984bf5efd49a39b520bf52570529
+      internalID: 1216596171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1064
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b94c770bbe7547918a504b546680694
+      internalID: 617709732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1049
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63715e029514c3da3bf7ddadb31932
+      internalID: -590789014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1049
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f5057ecf5842b091126ab77283a9c
+      internalID: 634532812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1049
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d61f25b52d80464493a30cc6f276ee4
+      internalID: -410187303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1034
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93709bb80c3b5482ba2883e3c04d1af9
+      internalID: -412540978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1034
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac9b3f5f96e542f9a0f75ac7a19832d
+      internalID: -1868358263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 990
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c569e5960aff4c2bb63cdadbeef27d2
+      internalID: -210763637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 910
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555320e87913e45df8bd8f9e4cf363f4
+      internalID: -380583863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca77f7cc39387471c841171e2ee78e10
+      internalID: 720963777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4fafe8deb9d4f29a06ca3d95a87e14
+      internalID: 2069799853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f68f160b8274cd58117433860ad142
+      internalID: -1748306833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 829
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e377cb831f487fae789f63e79f731
+      internalID: 1462969007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 829
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b349168ba5171401794b0f1d35d494f8
+      internalID: 2044539181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 814
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c591bc4ef62904c08b98389c4b229be6
+      internalID: 410288487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 646
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe76f7098b84b698e0c5c2d9151757
+      internalID: -483189828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 638
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294bcc5a7ffd4778ab5b8b583734b4a
+      internalID: 1348542814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 638
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39933155b11d84dc78efce07c0353185
+      internalID: 36424115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 638
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41790268a1f124c65b34ee3592dac195
+      internalID: 3700286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c570322a164aad8aad596505e27bb
+      internalID: 885357325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945dc2fbe9cb4c4ebd3a7bcb04769d1
+      internalID: -1403534328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 631
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a229209ecdc54fef80a02848c8f2b1d
+      internalID: -740790203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 624
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26dff8b29c444a9e97ed1551c015a0b
+      internalID: 1280203351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 624
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf7af740cdf8435888835e0389dded8
+      internalID: 140694438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 624
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fafdc5661fb4f05a5169636598d9d5
+      internalID: 553520534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 624
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf176ed38391a48dcbeb667317b2861b
+      internalID: 2356105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 51
+        width: 579
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be729dd054e6425fa3fe16debb70b8b
+      internalID: 342827815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 51
+        width: 573
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3f9a12dbd8418aa4edd06c432ffb6
+      internalID: 1606994517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 51
+        width: 361
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4a2ab875ea4188a75d75b1dd90ac3
+      internalID: -1754317586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 572
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c4d41f977624b05abb0b5c0e8883a4
+      internalID: -90428711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 528
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f71ef627624176bd0a1224aa0e400
+      internalID: -223529259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 51
+        width: 397
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8cc639adc384d6a99ec363bfcac666
+      internalID: -580817986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 514
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e92f9d506bb94dbd8623e206739924e
+      internalID: -978896222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 506
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f53eb0b187c94a0f94f05a711054804
+      internalID: 1740331494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 496
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9accda3d0b81a45c1ab44c131f46fcda
+      internalID: -1244859983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 492
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523b429b29224337b25fc9d79d0b6a5
+      internalID: 82421492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 448
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0749d640d75347599c2780575e6d63f
+      internalID: -325807018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31faba19f79f44c6ebff7c51fe5e2e7e
+      internalID: -1585535951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 462
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bcacc9da00d4684b41c258ad76e46b
+      internalID: -265705151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ba3c5e92a94669b13dccfb5c29b01
+      internalID: 802999057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a820f1a94b46f5890459673d2e10b
+      internalID: 1546917991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6707ffd673545c5b093ed62a38a696
+      internalID: -1018748471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 433
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c79d653514e462ab76881e33057869
+      internalID: -1549565656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f2a60b48de47e8967ea70847ef33c
+      internalID: -191659489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 411
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d769c566b5d4fe9adcbe37dfa6e2a3
+      internalID: 966296295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 359
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304a23dad16f4720bc1e85a65a1ba32
+      internalID: 1265178230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 345
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f6a7d09580c48dd94934719232271a
+      internalID: -1191730188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 301
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df023ebfefe0e4b56a4b3984607a93f8
+      internalID: -1228954817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 271
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a72cdb87c842eb9974246f2e87d9d
+      internalID: -2086086756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 293
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef6fa92bf6fa4028913c025c8f65875
+      internalID: 1984381306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 279
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50865e2ac1e37452eac169b141520e60
+      internalID: 1064879039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 220
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f3fe2f8f8d423c9f832075f31b6bc
+      internalID: -463973865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 205
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6835581a5dcb64c6f8441f0bb9e56c42
+      internalID: -1866428021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc81561d8079448a9cc4d8dabaa1e3a
+      internalID: 1732656662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 139
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddfe1c37be82416caee071482a900d1
+      internalID: 822509178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 125
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416572f53f9b48ae83a77c185ac45bc
+      internalID: 312189818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610345545cf2e4169b6bc04b616fcd19
+      internalID: -1377256712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 88
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208823eab3dc84ff3b5b8d14b649e2f2
+      internalID: -183505555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 95
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2e86e4117dd4c11bd9a4bf0c184315
+      internalID: -282368955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 81
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6bf20df758546fd819d6fb5861d5f4
+      internalID: -684956609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 81
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d506b4f78c4d6ea86e0c44f44633a
+      internalID: -133295508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1543b30a944a40158b696d329205f55
+      internalID: -1120614776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7664c4724a5d4306a4c631f7e25033e
+      internalID: 1434481090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c9bbe546ff544459b38f1fbd4df576
+      internalID: 225352110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38411490793402796fa995cbb72c04
+      internalID: 621033082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874c7cd7f3e1d401a98315f4c7af5494
+      internalID: -401368431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 37
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de669e2d43d49c3958857933bc2d6f
+      internalID: 977468364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5624811ab9472fa842f5c2700a901
+      internalID: 452309676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c47cdbd7b24b4babd7dcf68aa2b77
+      internalID: 1649512465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e75bc8c9cb5493da252a5f46bd7fc9
+      internalID: -1400145478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_53: 1790445058
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_77: 2044539181
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_89: 2356105
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_23: 876438541
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_87: 140694438
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_25: 335923278
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_127: 225352110
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_1: -511645603
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_67: 634532812
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_125: -1120614776
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_65: 617709732
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_54: 688194092
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_115: -463973865
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_66: -590789014
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_45: 684840179
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_46: 1799033033
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_71: -210763637
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_121: -183505555
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_122: -282368955
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_76: 1462969007
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_80: 1348542814
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_86: 1280203351
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_37: -796797286
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_68: -410187303
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_7: 437105280
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_42: 1290575244
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_98: -1244859983
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_84: -1403534328
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_17: -802923372
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_133: -1400145478
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_44: -1998085014
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_43: 545467214
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_52: -468084887
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_64: 1216596171
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_126: 1434481090
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_30: 784213427
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_79: -483189828
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_107: -191659489
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_38: 948442463
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_106: -1549565656
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_69: -412540978
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_16: 52323126
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_20: 978727768
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_120: -1377256712
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_131: 452309676
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_39: -1461336166
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_10: -1597491509
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_3: 449317822
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_81: 36424115
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_11: 1316383651
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_18: 612872123
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_58: 1278108218
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_33: 1797702842
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_40: 1417449889
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_100: -325807018
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_55: -1519358265
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_22: -1472710542
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_13: 149251336
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_14: 1592977840
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_34: 1454846087
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_70: -1868358263
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_99: 82421492
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_102: -265705151
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_27: 1976449010
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_61: -318718847
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_35: 1480560481
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_78: 410288487
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_8: -1440125423
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_92: -1754317586
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_57: 97776507
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_4: -1780570575
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_93: -90428711
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_60: -1449337065
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_97: 1740331494
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_50: -1882476160
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_111: -1228954817
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_75: -1748306833
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_83: 885357325
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_48: 1040299087
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_113: 1984381306
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_62: 1699678166
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_85: -740790203
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_118: 822509178
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_117: 1732656662
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_59: -511024187
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_124: -133295508
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_29: 1999848872
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_6: 306931302
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_32: 174062415
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_47: -995343316
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_95: -580817986
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_105: -1018748471
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_72: -380583863
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_91: 1606994517
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_101: -1585535951
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_2: 482515903
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_123: -684956609
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_56: 893011193
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_90: 342827815
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_63: -236666638
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_9: -1531354621
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_49: -2130312338
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_128: 621033082
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_31: 133368052
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_36: -1222783955
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_114: 1064879039
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_15: 1360396290
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_109: 1265178230
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_73: 720963777
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_19: -1365917414
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_129: -401368431
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_119: 312189818
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_5: 1655058015
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_112: -2086086756
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_51: 2026511993
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_26: -354550095
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_41: -2099364953
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_28: 247376583
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_96: -978896222
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_82: 3700286
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_24: -1189354703
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_0: 1467996941
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_74: 2069799853
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_104: 1546917991
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_21: -421749454
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_116: -1866428021
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_103: 802999057
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_130: 977468364
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_12: -999778489
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_88: 553520534
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_108: 966296295
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_110: -1191730188
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_94: -223529259
+      dl.beatsnoop.com-68d3357ccb3bb71772_20220210131912_cartoon_x4 (1)_132: 1649512465
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
